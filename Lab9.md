@@ -14,10 +14,9 @@
 
 2. Generate YIN and UML Files Using pyang
 
-'''
-pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
-pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef
-'''
+
+`pyang -f yin -o intrusiondetection.yin intrusiondetection.yang
+pyang -f uml -o intrusiondetection.uml intrusiondetection.yang --uml-no=stereotypes,annotation,typedef`
 
 3. Generate PNG Using PlantUML
 
