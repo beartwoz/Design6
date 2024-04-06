@@ -28,7 +28,7 @@ Prints out Environment Variables for the current system.
 
 ### Output
 
-![image](Images/env.png)
+![image](Images/Lab2/env.png)
 
 ---
 
@@ -42,7 +42,7 @@ Reports process status.
 
 ### Output
 
-![image](Images/ps.png)
+![image](Images/Lab2/ps.png)
 
 ---
 
@@ -72,7 +72,7 @@ Clones the iot repository into a newly created directory.
 
 ### Output
 
-![image](Images/clone.png)
+![image](Images/Lab2/clone.png)
 
 ---
 
@@ -86,7 +86,7 @@ Change the current directory to iot, then lists information about the files insi
 
 ### Output
 
-![image](Images/Lab2_ls.png)
+![image](Images/Lab2/ls.png)
 
 ---
 
@@ -100,7 +100,7 @@ Change the current directory back to the home directory (~ i.e. /home/chrispi)
 
 ### Output
 
-![image](Images/cd.png)
+![image](Images/Lab2/cd.png)
 
 ---
 
@@ -114,7 +114,7 @@ Show information about the file system on which each FILE resides, or all file s
 
 ### Output
 
-![image](Images/df.png)
+![image](Images/Lab2/df.png)
 
 ---
 
@@ -128,7 +128,7 @@ Creates the directory demo then changes the current directory to the newly creat
 
 ### Output
 
-![image](Images/Lab2_demo.png)
+![image](Images/Lab2/demo.png)
 
 ---
 
@@ -142,7 +142,7 @@ Opens a text editor within the command line to edit the file 'file'.
 
 ### Output
 
-![image](Images/nano.png)
+![image](Images/Lab2/nano.png)
 
 ---
 
@@ -156,7 +156,7 @@ Prints the contents of the file 'file'.
 
 ### Output
 
-![image](Images/cat.png)
+![image](Images/Lab2/cat.png)
 
 ---
 
@@ -191,7 +191,7 @@ Removes the file 'file2'.
 
 ### Output
 
-![image](Images/rm.png)
+![image](Images/Lab2/rm.png)
 
 ---
 
@@ -205,7 +205,7 @@ Clears the terminal's text
 
 ### Output
 
-![image](Images/clear.png)
+![image](Images/Lab2/clear.png)
 
 ---
 
@@ -221,7 +221,7 @@ Opens up an manual within the terminal with information about the command 'uname
 
 ### Output
 
-![image](Images/man.png)
+![image](Images/Lab2/man.png)
 
 ---
 
@@ -235,7 +235,7 @@ Print certain system information.
 
 ### Output
 
-![image](Images/uname.png)
+![image](Images/Lab2/uname.png)
 
 ---
 
@@ -249,7 +249,7 @@ Prints information about the computer's current IP configuration.
 
 ### Output
 
-![image](Images/ifconfig.png)
+![image](Images/Lab2/ifconfig.png)
 
 ### Command
 
@@ -275,6 +275,6 @@ Displays protocol statistics and current TCP/IP network connections.
 
 ### Output
 
-![image](Images/netstat.png)
+![image](Images/Lab2/netstat.png)
 
 ---
