@@ -3,9 +3,9 @@
 ## Chris Bertuzzi
 
 ### Half Adder
-![image]("C:\Users\Chris\OneDrive\Desktop\Labs322\HalfAddercmd.png")
-![image]("C:\Users\Chris\OneDrive\Desktop\Labs322\HalfAdder.png")
+![image]("Images/HalfAddercmd.png")
+![image]("Images/HalfAdder.png")
 
 ### D Flip-Flop
-![image]("C:\Users\Chris\OneDrive\Desktop\Labs322\flipflopcmd.png")
-![image]("C:\Users\Chris\OneDrive\Desktop\Labs322\flipflopwave.png")
+![image]("Images/flipflopcmd.png")
+![image]("Images/flipflopwave.png")
