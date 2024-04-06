@@ -34,7 +34,7 @@
 
 ![image](Images/Lab8/f6.png)
 
-### plt_cv2.py Outputs
+### plt_cv2.py Output
 
 ![image](Images/Lab8/f1_.png)
 
