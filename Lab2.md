@@ -261,7 +261,7 @@ Verifies IP-level connectivity to the local computer
 
 ### Output
 
-v
+![image](Images/Lab2/ping.png)
 
 ---
 
