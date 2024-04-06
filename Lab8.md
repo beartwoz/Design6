@@ -26,6 +26,8 @@
 
 ![image](Images/Lab8/f2.png)
 
+![image](Images/Lab8/f3_.png)
+
 ![image](Images/Lab8/f4.png)
 
 ![image](Images/Lab8/f5.png)
