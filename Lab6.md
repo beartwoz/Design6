@@ -19,12 +19,15 @@
 3. Visit Servers
 
 Hello-world
+
 ![image](Images/Lab6/hello-world.png)
 
 Hello
+
 ![image](Images/Lab6/hello.png)
 
 Http
+
 ![image](Images/Lab6/http.png)
 
 ---
