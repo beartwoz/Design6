@@ -1,4 +1,4 @@
-# CPE 322 Lab 3
+# CPE 322 Lab 4
 
 ## Chris Bertuzzi
 
@@ -111,6 +111,8 @@ in stevens/urls.py
 
 ![image](Images/Lab4/welcome.png)
 
+---
+
 ### Install Flask, Run Flask server via hello_world.py and view app
 
 1. Install Flask
@@ -138,3 +140,5 @@ if __name__ == '__main__':
 ![image](Images/Lab4/app.png)
 
 ![image](Images/Lab4/app_live.png)
+
+---
