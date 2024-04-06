@@ -60,8 +60,6 @@ Uncomment last line in node_server.py
 
 ![image](Images/Lab10/ns.png)
 
-![image](Images/Lab10/nf.png)
-
 **Terminal 2:**
 
 `python3 run_app.py`
