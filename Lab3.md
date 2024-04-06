@@ -20,8 +20,6 @@
 
 ![image](Images/Lab3/jdcal_error.png)
 
----
-
 ### Solution
 
 1. Create a virtual environment for my project
